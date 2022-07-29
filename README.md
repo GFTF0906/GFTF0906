@@ -1,5 +1,5 @@
 ## Hello, World! 🌎
-# [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/GFTF0906/)](https://github.com/GFTF0906/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/guifontebassogt/?hl=pt-br) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Guifontebassogt)](https://twitter.com/Guifontebassogt)
+# [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/GFTF0906/)](https://github.com/GFTF0906/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/guifontebassogt/?hl=pt-br)](https://www.instagram.com/guifontebassogt/?hl=pt-br) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Guifontebassogt)](https://twitter.com/Guifontebassogt)
 
 <p align="left"> 
 👋 Hi my name is Guilherme Fontebasso! <br><br>
@@ -11,8 +11,10 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFTF0906&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=7" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFTF0906&hide=html,CSS&layout=compact&count_private=true&langs_count=7" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GFTF0906&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
+<br>
+<br>
