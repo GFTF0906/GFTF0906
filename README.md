@@ -12,11 +12,9 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFTF0906&hide=html,CSS&layout=compact&count_private=true&langs_count=7" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GFTF0906&show_icons=true&count_private=true" /></td>
+        <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api?username=GFTF0906&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
-<br>
-<br>
 <br>
 <br>
