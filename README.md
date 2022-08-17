@@ -3,10 +3,10 @@
 
 <p align="left"> 
 👋 Hi my name is Guilherme Fontebasso! <br><br>
-📚 Currently studying Java, Spring and JavaScript/TypeScript.
+📚 Currently studying Java and JavaScript.
 </p>
 
-## My skills: <br/> <br/> ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## My skills: <br/> <br/> ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  
 <center>
   <table>
