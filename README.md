@@ -34,7 +34,7 @@
 
 <hr>
 
-###  &nbsp; My Profile Stats
+### :bar_chart: My Profile Stats
 <br>
 
 <div align="center">
