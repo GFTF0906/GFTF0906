@@ -29,10 +29,14 @@
 
 <img src="https://img.shields.io/badge/HTML-orangered?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-C76494?style=for-the-badge&logo=sass&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MARKDOWN-000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-B82C2B?style=for-the-badge&logo=npm&logoColor=white"/>
 
+<br>  
+  
+<img src="https://img.shields.io/badge/mysql-42759C?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-222?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-orangered?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
