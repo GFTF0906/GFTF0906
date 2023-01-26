@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
- <h2>Hi, i'm Guillherme Fontebasso Tavares Faria!</h2>
+ <h2>Hi, i'm Guilherme Fontebasso Tavares Faria!</h2>
  
  <div align="center"> 
    <a href="https://www.instagram.com/guifontebassotf/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
