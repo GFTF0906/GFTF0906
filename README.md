@@ -4,12 +4,6 @@
 
 <div align="center"> 
  <h2>Hi, i'm Guilherme Fontebasso Tavares Faria!</h2>
- 
- <div align="center"> 
-   <a href="https://www.instagram.com/guifontebassotf/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/echolovesjava" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- </div>
- </div>
 
 <br>
 
